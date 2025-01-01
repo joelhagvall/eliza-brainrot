@@ -1,11 +1,17 @@
-NOTE: This is for personal use only.
-Make sure to install prerequisites, then:
-- Change .env file and follow "MODIFICATION 1-4" by Ctrl+F:ing and add OpenRouter API (or whatever API you choose), as well as X credentials such as username, password, email.
-- Modify the "characters/brainrot.character.json" for desired output.
+NOTE: This is for personal use only and me messing around with the incredible ELIZA framework built by AI16z which I encourage you to read more on down below.
+Make sure to install the prerequisites with:
+```bash
+pnpm install
+pnpm build
+```
+Then:
+- Change .env file and follow *"MODIFICATION 1-4"* by Ctrl+F:ing and add OpenRouter API (or whatever API you choose), as well as X credentials such as username, password, email.
+- Modify *"characters/brainrot.character.json"* for desired output.
 - In the terminal type:
   ```bash
   pnpm start --character="characters/brainrot.character.json"
   ```
+- Agent starts (shit)posting on X :)
 
 # Eliza 🤖
 
