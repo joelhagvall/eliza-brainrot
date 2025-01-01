@@ -1,4 +1,4 @@
-NOTE: This is for personal use only and me messing around with the incredible ELIZA framework built by AI16z which I encourage you to read more on down below.
+**NOTE:** This is for **personal use only** and me messing around with the incredible ELIZA framework built by AI16z which I encourage you to read more on down below.
 Make sure to install the prerequisites with:
 ```bash
 pnpm install
@@ -12,6 +12,8 @@ Then:
   pnpm start --character="characters/brainrot.character.json"
   ```
 - Agent starts (shit)posting on X :)
+
+*Disclaimer:* This is a simple implementation and can be extended to do more extensive tasks on X and on-chain activities as well.
 
 # Eliza 🤖
 
