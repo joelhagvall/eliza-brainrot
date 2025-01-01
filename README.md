@@ -1,3 +1,12 @@
+NOTE: This is for personal use only.
+Make sure to install prerequisites, then:
+- Change .env file and follow "MODIFICATION 1-4" by Ctrl+F:ing and add OpenRouter API (or whatever API you choose), as well as X credentials such as username, password, email.
+- Modify the "characters/brainrot.character.json" for desired output.
+- In the terminal type:
+  ```bash
+  pnpm start --character="characters/brainrot.character.json"
+  ```
+
 # Eliza 🤖
 
 <div align="center">
@@ -24,10 +33,6 @@
 - 🚀 Highly extensible - create your own actions and clients
 - ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
 - 📦 Just works!
-
-## Video Tutorials
-
-[AI Agent Dev School](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
 
 ## 🎯 Use Cases
 
